@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "env": {
+                "BWZ_APP_ID": "com.example.whitelabelApp",
+                "BWZ_BRAND_NAME": "Youhooo",
+                "BWZ_TECH_NAME": "brand_1",
+                "BWZ_PREFIX": "brand1",
+                "BWZ_FIREBASE_IOS": "XXXXX",
+                "BWZ_FIREBASE_ANDROID": "XXXXX"
+            },
+            "name": "sample brand",
+            "request": "launch",
+            "type": "dart"
+        },
+    ]
+}
